@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2012\Projects\Hat\output\Release\Hat.exe.config
+C:\Users\User\documents\visual studio 2012\Projects\Hat\output\Release\Hat.exe
+C:\Users\User\documents\visual studio 2012\Projects\Hat\output\Release\Hat.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Views\MainWindow.baml
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Views\PrizeView.baml
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\App.baml
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Views\MainWindow.g.cs
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Views\PrizeView.g.cs
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\App.g.cs
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.g.resources
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.exe
+C:\Users\User\documents\visual studio 2012\Projects\Hat\Hat\obj\Release\Hat.pdb
